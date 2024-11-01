@@ -5,5 +5,5 @@ fn main() {
 
 	let a = p * (1.0 + (r / 100.0)).powf(n);
 
-	println!("The amount after {} years is {}",n,a);
+	println!("The amount after {} years is ₦{}",n,a);
 }
