@@ -1,5 +1,5 @@
 fn main() {
-    let fullname = "Pan-Atlantic University ";
+    let fullname = "Pan-Atlantic University ca";
 
     println!("");
     println!("Name {}",fullname);
